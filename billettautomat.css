@@ -51,6 +51,11 @@ p{
 	text-align: center;
 }
 
+#environment{
+	width: 50%;
+	float: center;
+	margin: auto;
+}
 #footer{
 	background-color: #C0C0C0;
 	color: #F06A00;
@@ -59,4 +64,6 @@ p{
 	padding: 1rem;
 	width: 100%;
 	margin-bottom: 0;
+	bottom: 0px;
 }
+
