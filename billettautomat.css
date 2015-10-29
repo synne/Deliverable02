@@ -9,17 +9,12 @@ body{
 	color: black;
 
 }
-
-p{
-	font-family: sans-serif;
-	font-size: 13px;
-	line-height: 20px;
+#environment{
 	text-align: left;
 	padding-top: 2%;
 	margin-top: 0;
-	margin-right: 4%;
-	display: inline-block;
 }
+
 
 h1{
 	background-color: #C0C0C0;
@@ -86,6 +81,7 @@ h1{
 	font-size: 13px;
 	line-height: 20px;
 	width: 40%;
+	margin-left: 15%;
 	
 }
 #pictures{
@@ -93,6 +89,6 @@ h1{
 	float: right;
 	
 	margin-top: 100px;
-	padding-right: 2%;
+	padding-right: 15%;
 	clear: right;
 }
